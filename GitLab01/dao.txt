@@ -1,0 +1,10 @@
+MovieTable  
+getReleasedMovie、getComingMovie、
+以上2個抓上映時間
+getMovieTetails by 電影編號
+
+TimeTable
+getMovieTime by startTime
+
+Bear
+Order OrderItem Seat Product
