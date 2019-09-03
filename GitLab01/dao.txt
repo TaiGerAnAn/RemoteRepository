@@ -8,3 +8,5 @@ getMovieTime by startTime
 
 Bear
 Order OrderItem Seat Product
+
+WHAT'S NEW!!
